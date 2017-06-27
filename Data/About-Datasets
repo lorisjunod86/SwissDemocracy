@@ -3,3 +3,17 @@ The Data have been found on the Open Data Website from teh swiss Administration
 https://opendata.swiss/en/
 
 The datasets have been cleaned to allow users to merge them easily to shapefiles. 
+
+
+Bezirk.RData
+
+The original file can be found on : 
+https://opendata.swiss/en/dataset/nationalratswahlen-parteistimmen-und-parteistarke-seit-1975-bezirke-und-gemeinden
+
+This file contains a variable which confuse districts and cities, a messy dataset for those who want to use for spatial analysis.
+
+This Rdata called Bezirk contains the data concerning the districts in Switzerland. For convenience, the name of the district have been changed to the recents one. 
+It must be said that the spatial boundaries of the districts have changed in the last 40 years.
+
+A R file will be upload to explain how the original Data have been cleaned.
+
